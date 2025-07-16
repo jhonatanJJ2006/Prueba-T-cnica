@@ -1,0 +1,47 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+build/
+coverage/
+out/
+
+# Local environment files
+.env
+.env.local
+.env.production
+.env.development
+.env.*.local
+*.local
+
+# Editor directories and files
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*~
+
+# OS files
+Thumbs.db
+
+# Database files (si usas SQLite o similares, puedes descomentar)
+# *.sqlite
+
+# Misc
+logs/
+*.log
